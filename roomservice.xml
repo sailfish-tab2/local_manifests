@@ -11,7 +11,7 @@
   <project name="sailfish-tab2/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="hybris-14.1" />
 
   <!-- Vendor -->
-  <project name="linusdan/vendor_samsung_espressowifi" path="vendor/samsung" remote="github" revision="7" />
+  <project name="linusdan/vendor_samsung_espresso" path="vendor/samsung" remote="github" revision="7" />
   <project name="linusdan/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="main" />
 
   <!-- Extras -->     
