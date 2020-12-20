@@ -4,7 +4,7 @@
   <remote name="gitlab" fetch="https://gitlab.com/" />
   
   <!-- Device -->
-  <project name="LineageOS/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="cm-14.1" />
+  <project name="sailfish-tab2/android_device_samsung_espressowifi" path="device/samsung/espressowifi" remote="github" revision="hybris-14.1" />
   <project name="LineageOS/android_device_samsung_espresso3g" path="device/samsung/espresso3g" remote="github" revision="cm-14.1" />
 
   <!-- Kernel -->
